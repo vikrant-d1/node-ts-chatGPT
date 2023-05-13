@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+dist/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment variables
+.env
+.env.production
+.env.test
+
+# Build files
+*.d.ts
+*.js.map
+
+# Visual Studio Code files
+.vscode/
+*.code-workspace
+
+# Typescript cache
+*.tsbuildinfo
